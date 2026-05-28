@@ -84,6 +84,17 @@ Mini — Google Gemini
 Clus — Anthropic Claude  
 Real — Perplexity AI
 
+## Extended Analysis Documents
+
+Decarbonization is necessary, but it is not sufficient. Emissions reduction alone does not restore collapsed carbon sinks, ocean uptake, soil microbial systems, thermal balance, or planetary metabolic circulation.
+
+| Document | Description |
+|---|---|
+| [DECARBONIZATION_LIMITATIONS.md](./DECARBONIZATION_LIMITATIONS.md) | Why emission reduction is a necessary but not sufficient condition for planetary recovery |
+| [THERMAL_INERTIA_AND_TIME_LAG.md](./THERMAL_INERTIA_AND_TIME_LAG.md) | Ocean heat content, thermal inertia, and why temperatures do not drop when emissions do |
+| [REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md](./REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md) | Announced vs. realistic global decarbonization trajectories and why neither constitutes a recovery pathway |
+| [MODEL_LIMITATIONS.md](./MODEL_LIMITATIONS.md) | Limitations, assumptions, and appropriate use boundaries for this conceptual framework |
+
 ## 1. What Is Decarbonization?
 
 Decarbonization generally means reducing greenhouse gas emissions, especially CO₂ emissions, from human activities.
