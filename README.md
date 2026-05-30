@@ -81,8 +81,9 @@ Handle: inchacomisho / inchacomusho
 AI Collaborators:  
 G — OpenAI ChatGPT  
 Mini — Google Gemini  
-Clus — Anthropic Claude  
-Real — Perplexity AI
+Cruz — Anthropic Claude  
+Real — Perplexity AI  
+Lora — Dola
 
 ## Extended Analysis Documents
 
