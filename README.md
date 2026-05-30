@@ -83,7 +83,7 @@ G — OpenAI ChatGPT
 Mini — Google Gemini  
 Cruz — Anthropic Claude  
 Real — Perplexity AI  
-Lora — Dola
+Lola — Dola
 
 ## Extended Analysis Documents
 
