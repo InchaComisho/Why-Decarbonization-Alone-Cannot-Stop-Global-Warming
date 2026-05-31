@@ -855,6 +855,8 @@ In this broader view, atmospheric CO₂ accumulation should be understood not on
 Related repository:
 
 - [The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)
+- **[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)** *(speculative fiction — not a scientific or policy document)*  
+  A narrative companion that fictionalises the argument this repository makes: that emissions reduction, without carbon fixation restoration and ocean cooling, cannot alone halt warming.
 
 This connection does not deny the greenhouse effect of CO₂ or the importance of emissions reduction. Instead, it proposes that climate stabilization requires a combined approach:
 
