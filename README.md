@@ -844,6 +844,32 @@ Emit less CO₂
 and restore the Earth’s ability to absorb and fix CO₂.
 ```
 
+## Related Core Framework: Carbon Sink Collapse and Regeneration
+
+This repository argues that decarbonization is necessary but not sufficient to stop global warming by itself.
+
+A related core framework expands this argument by focusing on the weakening of Earth's carbon fixation systems, including forests, soils, oceans, plankton systems, microbial ecosystems, and organic matter cycles.
+
+In this broader view, atmospheric CO₂ accumulation should be understood not only as a result of emissions, but also as a symptom of reduced absorption capacity across the biosphere.
+
+Related repository:
+
+- [The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)
+
+This connection does not deny the greenhouse effect of CO₂ or the importance of emissions reduction. Instead, it proposes that climate stabilization requires a combined approach:
+
+- emissions reduction
+- carbon sink regeneration
+- soil and microbial recovery
+- ocean and plankton restoration
+- water-cycle recovery
+- ecological resilience rebuilding
+- complementary thermal intervention such as Direct Planetary Cooling
+
+> **Validation note:** This is a conceptual framework and should not be treated as a validated climate model, measured dataset, or policy prescription. Scientific, ecological, engineering, and governance validation is required.
+
+---
+
 ## 20. Conclusion
 
 Decarbonization is necessary.
