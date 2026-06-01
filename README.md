@@ -870,6 +870,10 @@ This connection does not deny the greenhouse effect of CO₂ or the importance o
 
 > **Validation note:** This is a conceptual framework and should not be treated as a validated climate model, measured dataset, or policy prescription. Scientific, ecological, engineering, and governance validation is required.
 
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
+- [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — Climate feedback model from the perspective of Natural Complementary Science.
+- [Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index) — Repository index for microbial collapse and carbon fixation loss.
+
 ---
 
 ## 20. Conclusion
