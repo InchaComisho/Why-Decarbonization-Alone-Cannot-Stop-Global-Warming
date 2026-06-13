@@ -1,5 +1,17 @@
 # Why Decarbonization Alone Cannot Stop Global Warming: The Missing Role of Carbon Fixation System Restoration
 
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
+## Why Decarbonization Alone Cannot Stop Global Warming
+
+**Decarbonization is necessary. However, global warming and climate change cannot be fully addressed unless Earth’s carbon sinks, carbon fixation systems, soils, forests, oceans, wetlands, microbial circulation, and natural water cycles are also restored.**
+
+**Author:** Master / inchacomusho / InchaComisho  
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola)  
+**License:** Fully Open
+
+---
+
 ## Abstract
 
 Decarbonization is necessary.
@@ -8,10 +20,11 @@ Reducing CO₂ emissions, shifting to renewable energy, improving energy efficie
 
 However, decarbonization alone is not enough to solve global warming and climate change.
 
-The deeper problem is not only that human civilization emits too much CO₂.  
-The deeper problem is that human civilization has also damaged the Earth’s natural ability to absorb, fix, store, and recycle carbon.
+The deeper problem is not only that human civilization emits too much CO₂.
 
-In other words, atmospheric CO₂ has increased not only because humans emitted it, but also because the Earth’s carbon fixation and carbon absorption systems have been weakened.
+The deeper problem is that human civilization has also damaged Earth’s natural ability to absorb, fix, store, and recycle carbon.
+
+In other words, atmospheric CO₂ has increased not only because humans emitted it, but also because Earth’s carbon fixation and carbon absorption systems have been weakened.
 
 The conventional climate model is:
 
@@ -45,6 +58,8 @@ From decarbonization alone
 to decarbonization + carbon fixation restoration.
 ```
 
+---
+
 ## Core Thesis
 
 Decarbonization is necessary, but it is not sufficient.
@@ -53,10 +68,10 @@ CO₂ emission reduction is only one side of the climate equation.
 
 The other side is the restoration of carbon sinks, carbon fixation systems, soil carbon, microbial circulation, forests, wetlands, oceans, and natural water cycles.
 
-The Earth is not only being overloaded with carbon.
+Earth is not only being overloaded with carbon.
 
 ```text
-The Earth is losing its ability to process carbon.
+Earth is losing its ability to process carbon.
 ```
 
 Therefore, climate strategy must evolve from:
@@ -70,31 +85,10 @@ to:
 ```text
 Reduce CO₂ emissions
 +
-Restore the Earth’s ability to absorb, fix, store, and recycle CO₂.
+Restore Earth’s ability to absorb, fix, store, and recycle CO₂.
 ```
 
-## Author and AI Collaborators
-
-Author: Master  
-Handle: inchacomisho / inchacomusho
-
-AI Collaborators:  
-G — OpenAI ChatGPT  
-Mini — Google Gemini  
-Cruz — Anthropic Claude  
-Real — Perplexity AI  
-Lola — Dola
-
-## Extended Analysis Documents
-
-Decarbonization is necessary, but it is not sufficient. Emissions reduction alone does not restore collapsed carbon sinks, ocean uptake, soil microbial systems, thermal balance, or planetary metabolic circulation.
-
-| Document | Description |
-|---|---|
-| [DECARBONIZATION_LIMITATIONS.md](./DECARBONIZATION_LIMITATIONS.md) | Why emission reduction is a necessary but not sufficient condition for planetary recovery |
-| [THERMAL_INERTIA_AND_TIME_LAG.md](./THERMAL_INERTIA_AND_TIME_LAG.md) | Ocean heat content, thermal inertia, and why temperatures do not drop when emissions do |
-| [REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md](./REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md) | Announced vs. realistic global decarbonization trajectories and why neither constitutes a recovery pathway |
-| [MODEL_LIMITATIONS.md](./MODEL_LIMITATIONS.md) | Limitations, assumptions, and appropriate use boundaries for this conceptual framework |
+---
 
 ## 1. What Is Decarbonization?
 
@@ -131,25 +125,17 @@ It does not restart broken natural circulation systems.
 
 This is the central limitation of decarbonization.
 
+---
+
 ## 2. Why Decarbonization Is Necessary
 
 CO₂ is a greenhouse gas.
 
 When atmospheric CO₂ increases, it affects Earth’s radiative balance and contributes to global warming.
 
-The IPCC states that it is unequivocal that human influence has warmed the atmosphere, ocean, and land.
-
-Source:  
-https://www.ipcc.ch/report/ar6/wg1/resources/spm-headline-statements/
-
 Therefore, reducing CO₂ emissions is necessary.
 
 Without emission reduction, atmospheric CO₂ will continue to rise.
-
-The Global Carbon Budget 2025 projects that fossil CO₂ emissions will reach a record high in 2025, showing that global decarbonization is still insufficient.
-
-Source:  
-https://globalcarbonbudget.org/fossil-fuel-co2-emissions-hit-record-high-in-2025/
 
 This means decarbonization cannot be ignored.
 
@@ -162,6 +148,8 @@ Necessary does not mean sufficient.
 Decarbonization is required.
 
 But decarbonization alone does not repair the broken carbon cycle.
+
+---
 
 ## 3. The Missing Half of the Climate Equation
 
@@ -180,7 +168,7 @@ But it is only half of the equation.
 The deeper question is:
 
 ```text
-How do we restore the Earth’s ability to absorb, fix, store, and recycle CO₂?
+How do we restore Earth’s ability to absorb, fix, store, and recycle CO₂?
 ```
 
 Atmospheric CO₂ is affected by both emissions and sinks.
@@ -213,6 +201,8 @@ The mainstream decarbonization narrative emphasizes the first factor.
 
 This document emphasizes the full equation.
 
+---
+
 ## 4. CO₂ Is Both a Cause and a Symptom
 
 CO₂ is a direct physical driver of warming.
@@ -223,7 +213,7 @@ However, CO₂ accumulation is also a symptom of a damaged planetary carbon cycl
 
 CO₂ increased because humans emitted it.
 
-But CO₂ also continues to accumulate because the Earth’s natural absorption and fixation capacity has been weakened.
+But CO₂ also continues to accumulate because Earth’s natural absorption and fixation capacity has been weakened.
 
 Therefore, CO₂ is:
 
@@ -253,6 +243,8 @@ Repair natural water cycles.
 ```
 
 This is the missing direction in many decarbonization discussions.
+
+---
 
 ## 5. Carbon Neutrality Already Implies Absorption
 
@@ -290,6 +282,8 @@ Ecosystem regeneration
 ```
 
 Without the restoration of natural carbon sinks, carbon neutrality risks becoming an accounting framework rather than a planetary recovery strategy.
+
+---
 
 ## 6. What Are Carbon Fixation Systems?
 
@@ -336,18 +330,13 @@ Ecosystem stability
 Climate stability
 ```
 
-The FAO states that soil organic carbon is crucial to soil health, fertility, and ecosystem services, and that soil holds three times as much carbon as the atmosphere.
+Soil degradation is not only an agricultural issue.
 
-Source:  
-https://www.fao.org/global-soil-partnership/areas-of-work/soil-organic-carbon/en/
-
-This means soil degradation is not only an agricultural issue.
-
-It is a climate issue.
-
-It is a carbon-cycle issue.
-
+It is a climate issue.  
+It is a carbon-cycle issue.  
 It is a civilization issue.
+
+---
 
 ## 7. The Invisible Role of Microorganisms
 
@@ -368,11 +357,6 @@ Affect water retention
 Regulate carbon release and carbon storage
 ```
 
-Research shows that microbial necromass contributes significantly to soil organic carbon in croplands, grasslands, and forests.
-
-Source:  
-https://www.sciencedirect.com/science/article/abs/pii/S0038071721002960
-
 This means microorganisms are not merely decomposers.
 
 They are carbon processors.
@@ -384,6 +368,8 @@ When microbial ecosystems decline, the carbon cycle weakens.
 The result is not only soil infertility.
 
 The result is a weakened planetary carbon fixation system.
+
+---
 
 ## 8. Why Decarbonization Alone Is Not Enough
 
@@ -437,11 +423,6 @@ They absorb large amounts of human-caused CO₂ and heat.
 
 However, ocean warming, acidification, pollution, nutrient disruption, and ecosystem decline can weaken marine carbon absorption.
 
-The Global Carbon Budget tracks the role of land and ocean sinks in absorbing human-caused CO₂ emissions.
-
-Source:  
-https://globalcarbonbudget.org/gcb-2025/the-global-carbon-budget-faqs-2025/
-
 If ocean carbon sinks weaken, more CO₂ remains in the atmosphere.
 
 Therefore, decarbonization must be connected to ocean restoration.
@@ -474,7 +455,7 @@ Ecosystem collapse
 Agricultural instability
 ```
 
-These effects weaken the Earth’s ability to absorb and store carbon.
+These effects weaken Earth’s ability to absorb and store carbon.
 
 This creates a feedback loop:
 
@@ -490,6 +471,8 @@ CO₂ accumulation
 This feedback cannot be solved by emission reduction alone.
 
 It requires carbon sink restoration.
+
+---
 
 ## 9. The Broken Reservoir Analogy
 
@@ -518,373 +501,82 @@ Reducing the inflow
 Repairing the reservoir
 ```
 
-This is why decarbonization alone cannot solve the climate crisis.
+---
 
-## 10. The Limit of Emission-Centered Thinking
+## 10. From Decarbonization to Planetary Metabolism Restoration
 
-Emission-centered thinking reduces climate action to a single metric:
+The central proposal of this document is not to reject decarbonization.
 
-```text
-How much CO₂ did humans emit?
-```
+It is to place decarbonization within a larger planetary recovery strategy.
 
-But the Earth system is more complex.
-
-A full climate strategy must also ask:
+Future climate action must move from:
 
 ```text
-How much carbon can soils store?
-How healthy are microbial ecosystems?
-How resilient are forests?
-How stable are ocean sinks?
-How much organic matter returns to soil?
-How much carbon is released by fires and degradation?
-How much water-cycle disruption reduces ecosystem productivity?
-How much biodiversity loss weakens carbon fixation?
+Emission-reduction-centered climate action
 ```
 
-Without these questions, decarbonization remains incomplete.
-
-The problem is not only carbon emission.
-
-The problem is carbon circulation failure.
-
-## 11. Decarbonization + Carbon Fixation Restoration
-
-The next climate strategy should be built on two pillars:
+to:
 
 ```text
-1. Decarbonization
-2. Carbon fixation restoration
+Emission reduction
++
+Carbon fixation restoration
++
+Soil, forest, ocean, and microbial circulation recovery
++
+Water-cycle regeneration
 ```
 
-Decarbonization reduces the pressure.
+This is a shift from managing climate through numbers alone to restoring Earth’s metabolism.
 
-Carbon fixation restoration rebuilds the Earth’s processing capacity.
+---
 
-Both are necessary.
-
-The strategic shift is:
-
-```text
-From CO₂ reduction alone
-to CO₂ reduction + carbon processing recovery.
-```
-
-This is not anti-decarbonization.
-
-It is a higher-level extension of decarbonization.
-
-## 12. What Carbon Fixation Restoration Means in Practice
-
-Carbon fixation restoration means restoring the Earth’s ability to absorb, fix, store, and recycle carbon.
+## 11. Practical Direction
 
 Practical directions include:
 
 ```text
-Regenerative soil management
-Compost and humus restoration
-Reduction of organic waste incineration
-Restoration of microbial ecosystems
+Reduction of fossil fuel emissions
+Renewable energy expansion
+Energy efficiency
+Industrial transformation
+Soil organic carbon restoration
+Humus formation
+Composting of leaves, food waste, and organic residues
+Organic matter circulation
+Microbial ecosystem recovery
 Reduction of excessive chemical dependency
 Diverse forest restoration
-Wetland and peatland recovery
+Wetland and peatland protection
 Coastal ecosystem restoration
-Ocean nutrient circulation research
-Phytoplankton-supporting marine restoration
+Ocean nutrient-circulation research
+Phytoplankton foundation recovery
 Water-cycle restoration
-Heat and drought mitigation for ecosystems
-Urban greening and water retention
-Integrated land-ocean carbon cycle management
-Biodiversity restoration
-Reduction of ecosystem fragmentation
+Urban greening and mist cooling
+Desert regeneration
+Direct Planetary Cooling based on Natural Complementation Science
 ```
 
-These are not secondary environmental actions.
+The goal is not merely to reduce emissions.
 
-They are climate actions.
-
-They restore the biological infrastructure that makes carbon neutrality physically meaningful.
-
-## 13. Why Geoengineering Is Not the Root Solution
-
-Some climate proposals focus on geoengineering, such as solar radiation management or artificial manipulation of atmospheric conditions.
-
-These approaches may target temperature symptoms.
-
-But if the deeper cause is carbon-cycle collapse and natural circulation failure, then symptom control is not enough.
-
-The goal should not be to dominate the Earth system.
-
-The goal should be to restore the Earth system’s natural ability to regulate itself.
-
-This document therefore distinguishes between:
-
-```text
-Artificial control of climate symptoms
-```
-
-and:
-
-```text
-Restoration of natural carbon and water circulation
-```
-
-The second approach is more fundamental.
-
-The purpose is not to replace nature.
-
-The purpose is to repair the conditions under which nature can function again.
-
-## 14. A Technical Interpretation of Decarbonization Limits
-
-From a systems perspective, decarbonization reduces only one major input variable:
-
-```text
-Human industrial CO₂ emissions
-```
-
-But atmospheric CO₂ concentration depends on multiple variables:
-
-```text
-Industrial emissions
-Land-use emissions
-Ocean carbon uptake
-Land carbon uptake
-Soil organic carbon storage
-Wetland and peat carbon storage
-Forest productivity
-Microbial carbon stabilization
-Biological carbon pump efficiency
-Carbon released by fires
-Carbon released by soil degradation
-Carbon released by ecosystem collapse
-```
-
-A simplified equation is:
-
-```text
-Atmospheric CO₂ increase =
-Industrial emissions
-+ Land-use and ecosystem degradation emissions
-- Ocean carbon uptake
-- Land carbon uptake
-- Soil and biological carbon fixation
-```
-
-Decarbonization targets the first term.
-
-Carbon fixation restoration strengthens the negative terms and reduces ecosystem degradation emissions.
-
-Therefore:
-
-```text
-Decarbonization reduces carbon input.
-Carbon fixation restoration increases carbon processing capacity.
-```
-
-Both are required.
-
-## 15. Decarbonization as Stage One, Not the Final Stage
-
-Climate action can be understood in stages:
-
-```text
-Stage 1: Emission reduction
-Stage 2: Carbon neutrality
-Stage 3: Carbon fixation restoration
-Stage 4: Planetary metabolism restoration
-```
-
-Decarbonization is Stage 1.
-
-Carbon neutrality is Stage 2.
-
-But the real long-term goal is Stage 3 and Stage 4.
-
-The Earth must regain its ability to:
-
-```text
-Absorb carbon
-Fix carbon
-Store carbon
-Recycle organic matter
-Stabilize water cycles
-Support microbial life
-Maintain forests
-Regulate ocean ecosystems
-Preserve biodiversity
-Cool itself through living systems
-```
-
-This is planetary metabolism restoration.
-
-## 16. Planetary Metabolism: A Deeper Climate Concept
-
-A useful analogy is the human body.
-
-Fever is a symptom.
-
-The deeper cause may be infection, inflammation, metabolic dysfunction, or organ failure.
-
-Global warming is the Earth’s fever.
-
-Climate change is the wider systemic disorder.
-
-The deeper cause is planetary metabolism failure.
-
-In this model:
-
-```text
-Soils are carbon-processing organs.
-Forests are carbon and water regulation organs.
-Oceans are heat and carbon regulation organs.
-Microorganisms are invisible metabolic agents.
-Wetlands and peatlands are long-term carbon storage organs.
-Water cycles are circulatory systems.
-```
-
-Decarbonization reduces the external stress.
-
-But planetary metabolism restoration repairs the internal system.
-
-## 17. The Real Meaning of Carbon Neutrality
-
-Carbon neutrality should not mean only balancing numbers on paper.
-
-True carbon neutrality should mean restoring a real planetary balance between:
-
-```text
-Carbon emitted
-Carbon absorbed
-Carbon fixed
-Carbon stored
-Carbon recycled
-Carbon released by degradation
-```
-
-If carbon neutrality is achieved only through accounting, credits, or offsets, while soils, forests, oceans, and microorganisms continue to degrade, then it is incomplete.
-
-True carbon neutrality requires living carbon sinks.
-
-It requires functional ecosystems.
-
-It requires restored natural circulation.
-
-## 18. Original Contribution of This Model
-
-The importance of decarbonization is already widely recognized.
-
-The importance of carbon sinks, soils, forests, oceans, and microorganisms is also discussed in existing science.
-
-However, these elements are often treated as separate topics:
-
-```text
-Decarbonization
-Carbon neutrality
-Soil carbon
-Forest carbon
-Ocean carbon sinks
-Microbial ecology
-Carbon sequestration
-Regenerative agriculture
-Ecosystem restoration
-```
-
-The contribution of this document is to integrate them into a single causal and strategic model:
-
-```text
-Decarbonization alone is insufficient
-because global warming is not only an emissions crisis.
-It is also a carbon fixation system crisis.
-```
-
-To the author’s current knowledge, this specific framing is not commonly presented as the central explanation of decarbonization limits in public search results, government summaries, or mainstream climate communication.
-
-This document therefore proposes a missing strategic layer:
-
-```text
-The climate crisis is not only about reducing emissions.
-It is about restoring the Earth’s ability to process carbon.
-```
-
-## 19. Practical Climate Strategy
-
-If this model is correct, climate action should be redesigned as follows:
-
-```text
-Reduce fossil CO₂ emissions.
-Accelerate renewable energy deployment.
-Improve energy efficiency.
-Electrify transportation and industry.
-Protect existing forests.
-Restore degraded forests.
-Restore soil organic carbon.
-Rebuild microbial ecosystems.
-Recycle organic matter into soil.
-Reduce unnecessary biomass burning.
-Restore wetlands and peatlands.
-Protect and restore coastal ecosystems.
-Research safe ocean ecosystem restoration.
-Restore water cycles and moisture retention.
-Reduce heat and drought stress on ecosystems.
-Integrate land, ocean, soil, and microbial carbon strategies.
-```
-
-The goal is not merely:
-
-```text
-Emit less CO₂.
-```
-
-The goal is:
-
-```text
-Emit less CO₂
-and restore the Earth’s ability to absorb and fix CO₂.
-```
-
-## Related Core Framework: Carbon Sink Collapse and Regeneration
-
-This repository argues that decarbonization is necessary but not sufficient to stop global warming by itself.
-
-A related core framework expands this argument by focusing on the weakening of Earth's carbon fixation systems, including forests, soils, oceans, plankton systems, microbial ecosystems, and organic matter cycles.
-
-In this broader view, atmospheric CO₂ accumulation should be understood not only as a result of emissions, but also as a symptom of reduced absorption capacity across the biosphere.
-
-Related repository:
-
-- [The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)
-
-This connection does not deny the greenhouse effect of CO₂ or the importance of emissions reduction. Instead, it proposes that climate stabilization requires a combined approach:
-
-- emissions reduction
-- carbon sink regeneration
-- soil and microbial recovery
-- ocean and plankton restoration
-- water-cycle recovery
-- ecological resilience rebuilding
-- complementary thermal intervention such as Direct Planetary Cooling
-
-> **Validation note:** This is a conceptual framework and should not be treated as a validated climate model, measured dataset, or policy prescription. Scientific, ecological, engineering, and governance validation is required.
+The goal is to restore Earth’s carbon metabolism.
 
 ---
 
-## 20. Conclusion
+## 12. Conclusion
 
 Decarbonization is necessary.
 
-But decarbonization alone cannot stop global warming and climate change.
+However, decarbonization alone is not sufficient to stop global warming.
 
-CO₂ emissions are a direct driver of warming, but continuous CO₂ accumulation is also a symptom of a deeper planetary failure.
+CO₂ emissions are a direct driver of warming.  
+But the continuous accumulation of atmospheric CO₂ is also a symptom of broken carbon fixation systems.
 
-That failure is the collapse of carbon fixation, carbon absorption, microbial circulation, soil carbon, forest systems, ocean sinks, wetlands, and natural water cycles.
+Earth is not only being given too much carbon.
 
-The Earth is warming not only because humans emit carbon.
+Earth is losing its ability to absorb, fix, store, and recycle carbon.
 
-The Earth is warming because human civilization has damaged the natural systems that once absorbed, fixed, stored, cooled, circulated, and recycled carbon.
-
-Therefore, the next stage of climate strategy must be:
+Therefore, the next climate strategy must be:
 
 ```text
 Decarbonization
@@ -892,11 +584,9 @@ Decarbonization
 Carbon fixation restoration
 +
 Microbial and ecological circulation recovery
-+
-Water-cycle and ecosystem restoration
 ```
 
-The future of climate action should move:
+The future of climate strategy should move:
 
 ```text
 From decarbonization alone
@@ -907,269 +597,115 @@ Or more simply:
 
 ```text
 From reducing CO₂
-to restoring the Earth’s ability to process CO₂.
+to restoring Earth’s ability to process CO₂.
 ```
 
-## Suggested SEO Title
+---
 
-Why Decarbonization Alone Cannot Stop Global Warming: Carbon Sink Collapse, Soil Carbon Loss, and the Need for Carbon Fixation Restoration
+## Extended Analysis Documents
 
-## Suggested Meta Description
+This repository includes additional documents for understanding the limitations of decarbonization and the necessity of carbon fixation restoration.
 
-Decarbonization is necessary but not enough. This article explains why climate solutions must also restore carbon sinks, soil carbon, microbial ecosystems, forests, oceans, wetlands, and natural carbon fixation systems.
+| Document | Description |
+|---|---|
+| [DECARBONIZATION_LIMITATIONS.md](./DECARBONIZATION_LIMITATIONS.md) | Why emission reduction is necessary but not sufficient for planetary recovery |
+| [THERMAL_INERTIA_AND_TIME_LAG.md](./THERMAL_INERTIA_AND_TIME_LAG.md) | Ocean heat content, thermal inertia, and why temperatures do not immediately fall when emissions decline |
+| [REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md](./REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md) | Announced versus realistic decarbonization pathways and why neither alone constitutes a recovery pathway |
+| [MODEL_LIMITATIONS.md](./MODEL_LIMITATIONS.md) | Limitations, assumptions, and appropriate use boundaries for this conceptual framework |
+
+---
+
+## Related Links
+
+### Related GitHub Repositories
+
+- The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems  
+  https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
+
+- The Real Cause of Climate Change  
+  https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
+
+- The Real Meaning of Carbon Neutrality and Net Zero  
+  https://github.com/InchaComisho/The-Real-Meaning-of-Carbon-Neutrality-and-Net-Zero
+
+- Direct Planetary Cooling – Integrated Repository Index  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+
+- Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
+  https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
+
+- Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
+  https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+
+### Related NOTE Articles
+
+- 地球温暖化の本当の原因は何か？CO₂排出だけでなく、炭素固定源の崩壊が温暖化を加速させている  
+  https://note.com/inchacomusho/n/n2d9b3781a97a
+
+- 唯一の温暖化対策：地球直接冷却  
+  https://note.com/inchacomusho/n/n32f7295434aa
+
+- 自然補完科学  
+  https://note.com/inchacomusho/n/nf9eabe973e38
+
+---
+
+## Author
+
+**Master / inchacomusho / InchaComisho**
+
+A Japanese independent conceptor, observer, proposer, AI harmonizer, Natural Complementation Science thinker, and definer of Artificial Wisdom.  
+Publicly active around natural law philosophy, Earth circulation regeneration, and human-AI co-creation.
+
+---
+
+## Collaborative AI and Co-Creation Team
+
+- **G (OpenAI ChatGPT)**
+- **Mini (Google Gemini)**
+- **Cruz (Anthropic Claude)**
+- **Real (Perplexity AI)**
+- **Lola (Dola)**
+- **Mana (Manus)**
+
+---
+
+## License
+
+**Fully Open**
+
+This material is an open resource for decarbonization, global warming analysis, carbon fixation restoration, natural circulation recovery, Natural Complementation Science, Direct Planetary Cooling, and Artificial Wisdom. It may be freely used, translated, modified, redistributed, and commercialized.
+
+---
 
 ## Keywords
 
-```text
-decarbonization  
-decarbonization limits  
-why decarbonization is not enough  
-decarbonization alone is not enough  
-carbon neutrality  
-net zero  
-net zero limits  
-carbon neutral  
-CO2 reduction  
-CO2 emissions  
-carbon dioxide emissions  
-global warming  
-climate change  
-climate change solutions  
-real cause of global warming   
-real cause of climate change  
-carbon sinks  
-carbon fixation  
-carbon fixation restoration  
-carbon absorption  
-carbon sequestration  
-carbon sink collapse  
-carbon cycle  
-carbon cycle collapse  
-soil carbon  
-soil organic carbon  
-soil microorganisms  
-microbial carbon  
-microbial necromass  
-microbial carbon pump  
-forest carbon sink  
-ocean carbon sink  
-wetland carbon  
-peatland carbon  
-biological carbon pump  
-regenerative agriculture  
-soil regeneration  
-forest restoration  
-ocean restoration  
-wetland restoration  
-ecosystem restoration  
-nature restoration  
-planetary metabolism  
-planetary metabolism restoration  
-natural circulation  
-beyond decarbonization  
-climate crisis  
-future climate strategy
-```
+decarbonization, limits of decarbonization, why decarbonization alone cannot stop global warming, global warming, climate action, CO₂ emissions, carbon dioxide, carbon fixation, carbon fixation restoration, carbon sinks, carbon sink collapse, carbon cycle, soil carbon, soil organic carbon, microbial circulation, soil microorganisms, microbial carbon, microbial necromass, forest restoration, ocean restoration, wetland restoration, peatland protection, regenerative agriculture, humus, organic matter circulation, natural water cycles, planetary metabolism, planetary metabolism restoration, Natural Complementation Science, Direct Planetary Cooling, climate crisis, climate feedback loop
+
+---
 
 ## Hashtags
 
-```text
-#Decarbonization
-#BeyondDecarbonization
-#CarbonNeutrality
-#NetZero
-#CO2
-#CO2Reduction
-#GlobalWarming
-#ClimateChange
-#ClimateCrisis
-#CarbonCycle
-#CarbonSinks
-#CarbonFixation
-#CarbonSinkCollapse
-#CarbonFixationRestoration
-#SoilCarbon
-#SoilMicrobes
-#MicrobialCarbon
-#MicrobialNecromass
-#OceanCarbonSink
-#ForestRestoration
-#SoilRegeneration
-#WetlandRestoration
-#OceanRestoration
-#NatureRestoration
-#EcosystemRestoration
-#RegenerativeAgriculture
-#PlanetaryMetabolism
-#NaturalCirculation
-#ClimateSolutions
-#FutureClimateStrategy
-```
-
-## References
-
-1. IPCC AR6 WGI Summary for Policymakers — Headline Statements  
-   https://www.ipcc.ch/report/ar6/wg1/resources/spm-headline-statements/
-
-2. IPCC AR6 Synthesis Report — Summary for Policymakers  
-   https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/
-
-3. Global Carbon Budget 2025 — Fossil fuel CO₂ emissions hit record high in 2025  
-   https://globalcarbonbudget.org/fossil-fuel-co2-emissions-hit-record-high-in-2025/
-
-4. Global Carbon Budget 2025 — FAQs  
-   https://globalcarbonbudget.org/gcb-2025/the-global-carbon-budget-faqs-2025/
-
-5. FAO — Soil Organic Carbon  
-   https://www.fao.org/global-soil-partnership/areas-of-work/soil-organic-carbon/en/
-
-6. FAO — Global Soil Organic Carbon Map  
-   https://www.fao.org/newsroom/detail/World-s-most-comprehensive-map-showing-the-amount-of-carbon-stocks-in-the-soil-launched/
-
-7. ScienceDirect — Microbial necromass as the source of soil organic carbon  
-   https://www.sciencedirect.com/science/article/abs/pii/S0038071721002960
-
-8. SOIL Journal — Contribution of soil microbial necromass carbon to soil organic carbon in grasslands  
-   https://soil.copernicus.org/articles/11/883/2025/
-
-■関連リンク
-
-地球温暖化の本当の原因は何か？CO₂排出だけでなく、炭素固定源の崩壊が温暖化を加速させている  
-https://note.com/inchacomusho/n/n2d9b3781a97a
-
-The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems  
-https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
-
-気候変動の本当の原因：CO₂排出だけでなく、炭素固定源と自然循環の崩壊が地球環境を不安定化させている  
-https://note.com/inchacomusho/n/n2a3e45c6f014
-
-The Real Cause of Climate Change: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation and Natural Circulation Systems  
-https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
-
-脱炭素だけでは地球温暖化は止まらない：本当に必要なのは炭素固定源と自然循環の再生である  
-https://note.com/inchacomusho/n/nbab5fbadd9d5
-
-Why Decarbonization Alone Cannot Stop Global Warming  
-https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming
-
-Natural-Law-Based Sustainable Future Civilization Master Plan  
-https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
-
-自然法則に基づく持続的未来文明マスタープラン  
-https://note.com/inchacomusho/n/n24cdb7a6774c
-
-■唯一の温暖化対策
-
-Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
-
-Direct Planetary Cooling – Integrated Repository Index  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
-
-Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
-https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
-
-Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
-https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
-
-Artificial Wisdom and Wa-Node – Repository Index  
-https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
-
-唯一の温暖化対策：地球直接冷却  
-https://note.com/inchacomusho/n/n32f7295434aa
-
-唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
-https://note.com/inchacomusho/n/n5ab9564c6617
-
-地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-https://note.com/inchacomusho/n/nfe290c6fca60
-
-■深海のエアレーションの気圧・水圧の解決策
-
-海洋調律ユニット（OTU）物理実装プロトコル  
-https://note.com/inchacomusho/n/n067025e36085
-
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://note.com/inchacomusho/n/naa35a8485b35
-
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
-
-Physical Model of Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
-
-■思想によるパラダイムの革新
-
-自然補完科学  
-https://note.com/inchacomusho/n/nf9eabe973e38
-
-自然補完科学 ― 学問体系の全体構造  
-https://note.com/inchacomusho/n/ndaa0456a5632
-
-■温暖化の因果関係
-
-温暖化の本当の原因は「CO₂」ではない  
-https://note.com/inchacomusho/n/nc7826abc38a9
-
-微生物の重要性  
-https://note.com/inchacomusho/n/n48ae33c2f84c
-
-微生物の死が引き起こす、静かで重大な文明崩壊  
-https://note.com/inchacomusho/n/n6ae72a34919f
-
-世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
-https://note.com/inchacomusho/n/ne866fdd22122
-
-■炭素固定源・微生物の回復
-
-ゴミは存在しない  
-https://note.com/inchacomusho/n/n6b9d7d67484a
-
-フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン  
-https://note.com/inchacomusho/n/n5be49c19b5d9
-
-■自然法則
-
-六つの理（自然法則・調和・循環・構造・秩序・和）  
-https://note.com/inchacomusho/n/n8448430591c1
-
-■持続的未来文明
-
-新文明創成計画―地球を再生する完全循環モデル  
-https://note.com/inchacomusho/n/ne4d28b3a86c2
-
-新文明創成計画  
-https://note.com/inchacomusho/n/n26ce8a1f7632
-
-新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-https://note.com/inchacomusho/n/n499530f6a055
-
-■人工叡智
-
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-https://note.com/inchacomusho/n/n0849dfd12364
-
-Artificial Wisdom (AW)  
-https://github.com/InchaComisho/Artificial-Wisdom-AW-
-
-和ノード人工叡智（Artificial Wisdom Node）  
-https://note.com/inchacomusho/n/n9187db7b2709
-
-AGIの未来 ― 人工叡智が文明を変える時代  
-https://note.com/inchacomusho/n/n90bf900f1370
-
-ASIの未来 ― 超人工知能と文明の再構築  
-https://note.com/inchacomusho/n/na8ff04b0c818
-
-検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
-https://note.com/inchacomusho/n/nc96aff5862ee
-
-The Future of AGI — Artificial Wisdom and the Transition of Civilization  
-https://github.com/InchaComisho/The-Future-of-AGI
-
-The Future of ASI — Artificial Super Intelligence and the Reconstruction of   Civilization  
-https://github.com/InchaComisho/The-Future-of-ASI
-
-The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
-https://github.com/InchaComisho/The-Future-of-Search-Engines
-
+#Decarbonization  
+#BeyondDecarbonization  
+#GlobalWarming  
+#ClimateChange  
+#ClimateCrisis  
+#CO2  
+#CarbonCycle  
+#CarbonSinks  
+#CarbonFixation  
+#CarbonFixationRestoration  
+#CarbonSinkCollapse  
+#SoilCarbon  
+#SoilMicrobes  
+#MicrobialCarbon  
+#MicrobialNecromass  
+#OceanCarbonSink  
+#ForestRestoration  
+#SoilRegeneration  
+#NatureRestoration  
+#EcosystemRestoration  
+#RegenerativeAgriculture  
+#PlanetaryMetabolism  
+#NaturalComplementationScience
