@@ -234,9 +234,19 @@ To be explicit about the position of this framework:
 | Policy prescriptions | None — this is a structural framing document |
 | Scientific validation | Required for all quantitative claims |
 | Decarbonization stance | Pro-decarbonization; argues for expansion, not replacement |
-| License | CC BY-SA 4.0 |
+| License | CC BY 4.0 |
 
 ---
 
-*License: CC BY-SA 4.0*  
+*License: CC BY 4.0*  
 *Repository: [Why-Decarbonization-Alone-Cannot-Stop-Global-Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming)*
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
