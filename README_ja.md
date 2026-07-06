@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Why Decarbonization Alone Cannot Stop Global Warming
 
 **排出削減は必要である。しかし、地球の炭素吸収源・炭素固定源・土壌・森林・海洋・湿地・微生物循環を回復しなければ、温暖化と気候変動は止まりにくいという統合的気候モデル。**

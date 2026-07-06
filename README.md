@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Why Decarbonization Alone Cannot Stop Global Warming
 
 **Decarbonization is necessary. However, global warming and climate change cannot be fully addressed unless Earth’s carbon sinks, carbon fixation systems, soils, forests, oceans, wetlands, microbial circulation, and natural water cycles are also restored.**
