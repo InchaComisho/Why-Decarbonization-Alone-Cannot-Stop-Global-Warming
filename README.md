@@ -642,13 +642,10 @@ This repository includes additional documents for understanding the limitations 
 ### Related NOTE Articles
 
 - 地球温暖化の本当の原因は何か？CO₂排出だけでなく、炭素固定源の崩壊が温暖化を加速させている  
-  https://note.com/inchacomusho/n/n2d9b3781a97a
 
 - 唯一の温暖化対策：地球直接冷却  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - 自然補完科学  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 ---
 
