@@ -1,5 +1,7 @@
 # Decarbonization Limitations: Why Emission Reduction Is Necessary but Not Sufficient
 
+[日本語版はこちら / Japanese version](DECARBONIZATION_LIMITATIONS_ja.md)
+
 ## Overview
 
 This document examines the structural limitations of decarbonization as a climate strategy.

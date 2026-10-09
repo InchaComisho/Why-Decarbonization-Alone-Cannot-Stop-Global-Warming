@@ -1,5 +1,7 @@
 # Realistic vs. Announced Decarbonization: Why the Global Picture Is Not a Recovery Pathway
 
+[日本語版はこちら / Japanese version](REALISTIC_VS_ANNOUNCED_DECARBONIZATION_ja.md)
+
 ## Overview
 
 A central gap in climate policy discourse is the difference between **Announced Decarbonization** — what nations commit to — and **Realistic Global Decarbonization** — what is likely to occur when all nations' trajectories are aggregated.

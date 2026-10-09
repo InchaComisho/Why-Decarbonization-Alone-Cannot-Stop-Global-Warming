@@ -1,5 +1,7 @@
 # Thermal Inertia and Time Lag: Why Temperature Does Not Drop When Emissions Do
 
+[日本語版はこちら / Japanese version](THERMAL_INERTIA_AND_TIME_LAG_ja.md)
+
 ## Overview
 
 One of the most consequential and least understood gaps in public climate discourse is the **thermal inertia** of the Earth's climate system — specifically, the ocean's role as a massive heat reservoir that continues to drive warming even after CO₂ emissions are reduced.

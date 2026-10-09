@@ -622,10 +622,10 @@ CO₂を減らすことから
 
 | 文書 | 内容 |
 |---|---|
-| [DECARBONIZATION_LIMITATIONS.md](./DECARBONIZATION_LIMITATIONS.md) | 排出削減が必要だが、惑星回復の十分条件ではない理由 |
-| [THERMAL_INERTIA_AND_TIME_LAG.md](./THERMAL_INERTIA_AND_TIME_LAG.md) | 海洋熱容量・熱慣性・排出削減後も気温がすぐ下がらない理由 |
-| [REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md](./REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md) | 公表目標と現実的脱炭素経路の差、そして回復戦略としての限界 |
-| [MODEL_LIMITATIONS.md](./MODEL_LIMITATIONS.md) | 本概念モデルの限界、前提、適切な利用範囲 |
+| [DECARBONIZATION_LIMITATIONS.md](./DECARBONIZATION_LIMITATIONS_ja.md) | 排出削減が必要だが、惑星回復の十分条件ではない理由 |
+| [THERMAL_INERTIA_AND_TIME_LAG.md](./THERMAL_INERTIA_AND_TIME_LAG_ja.md) | 海洋熱容量・熱慣性・排出削減後も気温がすぐ下がらない理由 |
+| [REALISTIC_VS_ANNOUNCED_DECARBONIZATION.md](./REALISTIC_VS_ANNOUNCED_DECARBONIZATION_ja.md) | 公表目標と現実的脱炭素経路の差、そして回復戦略としての限界 |
+| [MODEL_LIMITATIONS.md](./MODEL_LIMITATIONS_ja.md) | 本概念モデルの限界、前提、適切な利用範囲 |
 
 ---
 

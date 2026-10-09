@@ -1,5 +1,7 @@
 # Model Limitations and Disclaimer
 
+[日本語版はこちら / Japanese version](MODEL_LIMITATIONS_ja.md)
+
 ## Overview
 
 This document describes the limitations, assumptions, and appropriate use boundaries for the conceptual framework presented in the repository:  
